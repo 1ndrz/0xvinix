@@ -4,7 +4,7 @@
 
 #### Passionate about entrepreneurship, astronomy, and any subject about technology, especially information security.
 
-  <a href="https://github.com/Kirit074">
+  <a href="https://github.com/0xvinix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xvinix&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xvinix&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22&hide=elixir"/>
 </div>
@@ -40,6 +40,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/xvinicius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/0xvinix/0xvinix/blob/output/snake.svg)
+  <!--![Snake animation](https://github.com/0xvinix/0xvinix/blob/output/snake.svg)-->
  
 </div>
