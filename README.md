@@ -29,13 +29,6 @@
  <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43650" target="_blank"><img src="https://img.shields.io/badge/🕷-CVE--2021--43650-blue" target="_blank"></a> 
 </div>
 
-  
-  ### 🌎 Communities
-<div>
-<a href="https://discord.gg/8H5bxN8jp8" target="_blank"><img src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/hackingforce.png" target="_blank"></a> 
-<a href="https://discord.gg/bgnNQdbr9R" target="_blank"><img src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/harddisk.png" target="_blank"></a> 
-</div>
-
 ### ☕ Find me
 <div> 
   <a href="https://www.linkedin.com/in/xvinicius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
